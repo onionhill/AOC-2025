@@ -1,4 +1,4 @@
-with open('input.txt', 'r') as file:
+with open('sample.txt', 'r') as file:
   banks = file.readlines()
 sum = 0
 
